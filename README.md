@@ -19,6 +19,7 @@ In the cloud demo, the system gets a WSI file from the remote NAS, so data extra
 
 ## Workstation Demo
 AI inference process and results as follows:  
+![result](result_screenshot.png)
 
 #### Device specifications
 - **CPU:** Intel Core i9-7900X
