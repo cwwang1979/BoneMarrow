@@ -1,4 +1,5 @@
 # BoneMarrow
+
 **Abstract**  
 Bone marrow examination is an essential step in both diagnosing and managing hematologic disorders. However, challenges to perform bone marrow analysis on whole-slide images (WSIs) include large dimensions of data to process, numerous cell types to identify and small inter-class difference within a maturation stage among various cell types. To the authors' best knowledge, this is the first study on fully automatic bone marrow analysis using WSIs. In this study, we develop an efficient and fully automatic hierarchical deep learning framework for bone marrow WSI analysis in seconds. The proposed hierarchical framework consists of (1) a deep learning model for rapid localization of bone marrow particles and cellular trails generating regions of interest for further analysis, (2) a patch-based deep learning model for cell identification of 15 cell types, ncluding myeloid series, erythroid series and lymphoid series, and (3) a fast stitching model for integrating patch-based results and producing final outputs. In evaluation, the proposed method achieves high recall, accuracy and the area under the precision-recall curve (PR-AUC) metrics of 0.959, 0.992 and 0.972, respectively, and takes only 43 seconds to perform bone marrow analysis for a WSI. In comparison with the small-image-based benchmark methods, the proposed method demonstrates superior performance in recall, accuracy, PR-AUC and computational time. The proposed fully automatic method is demonstrated to be effective and efficient in bone marrow cell analysis of WSIs for routine clinical usage.
 
@@ -18,8 +19,8 @@ In the cloud demo, the system gets a WSI file from the remote NAS, so data extra
 
 
 ## Workstation Demo
-AI inference process and results as follows:  
-![result](result_screenshot.png)
+AI inference process and results as follows:   
+##### ![result](result_screenshot.png)
 
 #### Device specifications
 - **CPU:** Intel Core i9-7900X
@@ -34,6 +35,7 @@ In the workstation demo, the WSI file is stored locally, so data extraction time
 
 
 ## Setup
+
 #### Requirerements
 - ubuntu 18.04
 - RAM >= 16 GB
