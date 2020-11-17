@@ -3,7 +3,7 @@
 ## Publications
 If you use this software in your research, please cite our publications:  
   
-Ching-Wei Wang, Sheng-Chuan Huang, Jeff L Gaol, Yu-Ching Lee, Shwu-Ing Meng and Yu-Jie Shen "Deep Learning for Bone Marrow Cell Detection and Classification on Whole-Slide Images." MIA under review, 2020. 
+Ching-Wei Wang, Sheng-Chuan Huang, Jeff L Gaol, Yu-Ching Lee, Shwu-Ing Meng and Yu-Jie Shen "Deep Learning for Bone Marrow Cell Detection and Classification on Whole-Slide Images." Medical Image Analysis(under review). 
 
 
 ## Cloud Demo
@@ -99,8 +99,8 @@ http://creativecommons.org/licenses/by-nc/4.0/
 
 
 ## Contact
-Ching-Wei Wang  
+Prof. Ching-Wei Wang  
   
-cweiwang@mail.ntust.edu.tw  
+cweiwang@mail.ntust.edu.tw; cwwang1979@gmail.com  
   
 National Taiwan University of Science and Technology
