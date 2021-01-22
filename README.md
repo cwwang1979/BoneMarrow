@@ -74,7 +74,7 @@ BoneMarrow/
 │       └── Data0035.dat
 │
 ├── Model/ - contains detection models
-|   ├── 27_BOOST_POSITIVE_i70w
+|   ├── BMntu10mix_9_i90w
 |   └── NTU_ROI_i10w
 |
 └── Result/ - inference result is saved here
