@@ -7,7 +7,7 @@ Ching-Wei Wang, Sheng-Chuan Huang, Yu-Ching Lee, Yu-Jie Shen, Shwu-Ing Meng and 
 
 
 ## Cloud Demo
-AI inference process and results are shown in the [video](https://drive.google.com/file/d/1-qkil0xDLDo30YNlEiOTp1xDQ77uSipf/view?usp=sharing).
+AI inference process and results are shown in the [video](https://drive.google.com/file/d/1P_xRgMocops69lHtga9990OKBvTxsYHq/view?usp=sharing).
 
 #### Device specifications
 - **CPU:** Intel Xeon Gold 6148
@@ -16,7 +16,7 @@ AI inference process and results are shown in the [video](https://drive.google.c
 
 #### Time consumption
 - **Data extraction time:** 42 seconds
-- **AI Inference time:** 42 seconds
+- **AI Inference time:** 44 seconds
 
 In the cloud demo, the system gets a WSI file from the remote NAS, so data extraction time takes more than the workstation demo.
 
@@ -32,7 +32,7 @@ AI inference process and results as follows:
 
 #### Time consumption
 - **Data extraction time:** 6 seconds
-- **AI Inference time:** 92 seconds
+- **AI Inference time:** 94 seconds
 
 In the workstation demo, the WSI file is stored locally, so data extraction time takes less than the cloud demo.
 
@@ -48,7 +48,7 @@ In the workstation demo, the WSI file is stored locally, so data extraction time
 - cuDNN version >= 7.4.2
 
 #### Download
-Execution file, configuration file, and models are download from the [zip](https://drive.google.com/file/d/18fGMoaZSL8J0Wu63gKZRFKGEtlhRZ-Ch/view?usp=sharing) file.  
+Execution file, configuration file, and models are download from the [zip](https://drive.google.com/file/d/1sEEnwL3jQuKWEMPmrjBohiTaT95a6VOq/view?usp=sharing) file.  
 The demo data is [here](https://drive.google.com/file/d/1-g-FOBLqyhsjwBQCVsQ3WlAwQmBpvHV9/view?usp=sharing).
 
 #### File structure
