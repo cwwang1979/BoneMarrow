@@ -3,7 +3,7 @@
 ## Publications
 If you use this software in your research, please cite our publication:  
   
-Ching-Wei Wang, Sheng-Chuan Huang, Jeff L Gaol, Yu-Ching Lee, Shwu-Ing Meng and Yu-Jie Shen "Deep Learning for Bone Marrow Cell Detection and Classification on Whole-Slide Images." Medical Image Analysis (under review). 
+Ching-Wei Wang, Sheng-Chuan Huang, Yu-Ching Lee, Yu-Jie Shen, Shwu-Ing Meng and and Jeff L Gaol. "Deep Learning for Bone Marrow Cell Detection and Classification on Whole-Slide Images." Medical Image Analysis (under review). 
 
 
 ## Cloud Demo
