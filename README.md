@@ -7,7 +7,7 @@ Ching-Wei Wang, Sheng-Chuan Huang, Yu-Ching Lee, Yu-Jie Shen, Shwu-Ing Meng and 
 
 
 ## Cloud Demo
-AI inference process and results are shown in the [video](https://drive.google.com/file/d/1P_xRgMocops69lHtga9990OKBvTxsYHq/view?usp=sharing).
+AI inference process and results are shown in the [video](https://drive.google.com/file/d/1mU6TlEEeLkQQK2Q9c2cFDVwutSZQvfNA/view?usp=sharing).
 
 #### Device specifications
 - **CPU:** Intel Xeon Gold 6148
