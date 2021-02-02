@@ -1,10 +1,8 @@
 # BoneMarrow
 
-## Publications
-If you use this software in your research, please cite our publication:  
-  
-Ching-Wei Wang, Sheng-Chuan Huang, Yu-Ching Lee, Yu-Jie Shen, Shwu-Ing Meng and Jeff L Gaol. "Deep Learning for Bone Marrow Cell Detection and Classification on Whole-Slide Images." Medical Image Analysis (under review). 
-
+## Associated paper
+Wang et al. "Deep Learning for Bone Marrow Cell Detection and Classification on Whole-Slide Images." (under review). 
+If you use this software in your research, please cite our publication.  
 
 ## Cloud Demo
 AI inference process and results are shown in the [video](https://drive.google.com/file/d/1mU6TlEEeLkQQK2Q9c2cFDVwutSZQvfNA/view?usp=sharing).
@@ -48,7 +46,8 @@ In the workstation demo, the WSI file is stored locally, so data extraction time
 - cuDNN version >= 7.4.2
 
 #### Download
-Execution file, configuration file, and models are download from the [zip](https://drive.google.com/file/d/1sEEnwL3jQuKWEMPmrjBohiTaT95a6VOq/view?usp=sharing) file.  
+Execution file, configuration file, and models are download from the [zip](https://drive.google.com/file/d/19ZUKV8LBHndpDxHUKDWXey6EPvAsO805/view?usp=sharing) file.  (For reviewers, please use the manuscript number M...........R1 as the password to decompress the file.)
+
 The demo data is [here](https://drive.google.com/file/d/1-g-FOBLqyhsjwBQCVsQ3WlAwQmBpvHV9/view?usp=sharing).
 
 #### File structure
