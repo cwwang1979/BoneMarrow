@@ -5,7 +5,7 @@ Wang et al. "Deep Learning for Bone Marrow Cell Detection and Classification on 
 If you use this software in your research, please cite our publication.  
 
 ## Cloud Demo
-AI inference process and results are shown in the [video](https://drive.google.com/file/d/1mU6TlEEeLkQQK2Q9c2cFDVwutSZQvfNA/view?usp=sharing).
+AI inference process and results are shown in the [video](https://drive.google.com/file/d/1BnJMrl5gJLrLxgFycA2eJXmcHHZ_dKyG/view?usp=sharing).
 
 #### Device specifications
 - **CPU:** Intel Xeon Gold 6148
@@ -13,8 +13,8 @@ AI inference process and results are shown in the [video](https://drive.google.c
 - **GPU:** NVIDIA TITAN RTX 24 GB * 4
 
 #### Time consumption
-- **Data extraction time:** 42 seconds
-- **AI Inference time:** 44 seconds
+- **Data extraction time:** 328 seconds
+- **AI Inference time:** 336 seconds
 
 In the cloud demo, the system gets a WSI file from the remote NAS, so data extraction time takes more than the workstation demo.
 
@@ -29,8 +29,8 @@ AI inference process and results as follows:
 - **GPU:** NVIDIA GeForce GTX 1080 Ti 11 GB * 2
 
 #### Time consumption
-- **Data extraction time:** 6 seconds
-- **AI Inference time:** 94 seconds
+- **Data extraction time:** 96 seconds
+- **AI Inference time:** 741 seconds
 
 In the workstation demo, the WSI file is stored locally, so data extraction time takes less than the cloud demo.
 
