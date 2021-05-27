@@ -46,9 +46,9 @@ In the workstation demo, the WSI file is stored locally, so data extraction time
 - cuDNN version >= 7.4.2
 
 #### Download
-Execution file, configuration file, and models are download from the [zip](https://drive.google.com/file/d/19ZUKV8LBHndpDxHUKDWXey6EPvAsO805/view?usp=sharing) file.  (For reviewers, please use the manuscript number M...........R1 as the password to decompress the file.)
+Execution file, configuration file, and models are download from the [zip](https://drive.google.com/file/d/11GA6rtKFHaa-eJUCmTbYx1ew6broohjj/view?usp=sharing) file.  (For reviewers, please use the manuscript number M...........R1 as the password to decompress the file.)
 
-The demo data is [here](https://drive.google.com/file/d/1-g-FOBLqyhsjwBQCVsQ3WlAwQmBpvHV9/view?usp=sharing).
+The demo data is [here](https://drive.google.com/file/d/1IrSIONn5ZtHN4SmOO0bu5tvwzXcy1E7u/view?usp=sharing).
 
 #### File structure
 ```
@@ -60,8 +60,8 @@ BoneMarrow/
 ├── TestImgTemp/ - temp data extraction folder
 |
 ├── Data/ - inference data location
-│   ├── 1M14.mrxs
-│   └── 1M14/
+│   ├── 1M05.mrxs
+│   └── 1M05/
 │       ├── Index.dat
 │       ├── Slidedat.ini
 │       ├── Data0000.dat
@@ -70,7 +70,7 @@ BoneMarrow/
 │       ├── Data0003.dat
 │       ├── Data0004.dat
 │       │       ⋮
-│       └── Data0035.dat
+│       └── Data0030.dat
 │
 ├── Model/ - contains detection models
 |   ├── BMntu10mix_9_i90w
