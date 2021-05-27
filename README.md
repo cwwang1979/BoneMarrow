@@ -16,12 +16,11 @@ AI inference process and results are shown in the dmeo [video](https://drive.goo
 - **Data extraction time:** 328 seconds
 - **AI Inference time:** 336 seconds
 
-In the cloud demo, the system gets a WSI file from the remote NAS, so data extraction time takes more than the workstation demo.
+In the cloud demo, the system gets a WSI file from the remote NAS, and hence the data extraction time takes more than the workstation demo.
 
 
 ## Workstation Demo
-The workstation demo data name is [1M14.mrxs](https://drive.google.com/file/d/1IrSIONn5ZtHN4SmOO0bu5tvwzXcy1E7u/view?usp=sharing).    
-AI inference process and results as follows:   
+AI inference process and results as follows with demo data [1M14.mrxs](https://drive.google.com/file/d/1IrSIONn5ZtHN4SmOO0bu5tvwzXcy1E7u/view?usp=sharing).
 ##### ![result](result_screenshot.png)
 
 #### Device specifications
