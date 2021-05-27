@@ -32,7 +32,7 @@ AI inference process and results as follows with demo data [1M14.mrxs](https://d
 - **Data extraction time:** 6 seconds
 - **AI Inference time:** 94 seconds
 
-In the workstation demo, the WSI file is stored locally, so data extraction time takes less than the cloud demo.
+In the workstation demo, the WSI file is stored locally, and hence the data extraction time takes less than the cloud demo.
 
 
 ## Setup
@@ -47,8 +47,6 @@ In the workstation demo, the WSI file is stored locally, so data extraction time
 
 #### Download
 Execution file, configuration file, and models are download from the [zip](https://drive.google.com/file/d/11GA6rtKFHaa-eJUCmTbYx1ew6broohjj/view?usp=sharing) file.  (For reviewers, please use the manuscript number M...........R1 as the password to decompress the file.)
-
-The demo data is [here](https://drive.google.com/file/d/1IrSIONn5ZtHN4SmOO0bu5tvwzXcy1E7u/view?usp=sharing).
 
 #### File structure
 ```
