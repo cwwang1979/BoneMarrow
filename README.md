@@ -21,7 +21,7 @@ In the cloud demo, the system gets a WSI file from the remote NAS, so data extra
 
 
 ## Workstation Demo
-The workstation demo data is [here](https://drive.google.com/file/d/1IrSIONn5ZtHN4SmOO0bu5tvwzXcy1E7u/view?usp=sharing). 
+The workstation demo data is [here](https://drive.google.com/file/d/1IrSIONn5ZtHN4SmOO0bu5tvwzXcy1E7u/view?usp=sharing).    
 AI inference process and results as follows:   
 ##### ![result](result_screenshot.png)
 
@@ -95,7 +95,7 @@ BoneMarrow/
 ```
 
 #### Inference
-Open the setting.json file to set up the input WSI filename and the GPUs to use. 
+Open the setting.json file to set up the input WSI filename and the GPUs to use.    
 The file format is as follows:  
 ```
 {
