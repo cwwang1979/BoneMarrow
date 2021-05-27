@@ -96,8 +96,8 @@ BoneMarrow/
 Open the setting.json file set input WSI filename and GPUs used, the file format as follows:  
 ```
 {
-    "DATA": "1M14.mrxs",  //the input WSI filename.
-    "GPU": [0, 1]	      //number of GPUs to use for testing.
+    "DATA": "1M14.mrxs",    //the input WSI filename.
+    "GPU": [0, 1]           //number of GPUs to use for testing.
 }
 ```
 
