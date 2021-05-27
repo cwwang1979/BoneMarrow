@@ -20,7 +20,7 @@ In the cloud demo, the system gets a WSI file from the remote NAS, and hence the
 
 
 ## Workstation Demo
-AI inference process and results as follows with demo data [1M14.mrxs](https://drive.google.com/file/d/1IrSIONn5ZtHN4SmOO0bu5tvwzXcy1E7u/view?usp=sharing).
+AI inference process and results as follows with demo data [1M14.mrxs](https://drive.google.com/file/d/1-g-FOBLqyhsjwBQCVsQ3WlAwQmBpvHV9/view?usp=sharing).
 ##### ![result](result_screenshot.png)
 
 #### Device specifications
