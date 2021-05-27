@@ -61,7 +61,19 @@ BoneMarrow/
 |
 ├── Data/ - inference data location
 │   ├── 1M05.mrxs
-│   └── 1M05/
+│   ├── 1M05/
+│   │   ├── Index.dat
+│   │   ├── Slidedat.ini
+│   │   ├── Data0000.dat
+│   │   ├── Data0001.dat
+│   │   ├── Data0002.dat
+│   │   ├── Data0003.dat
+│   │   ├── Data0004.dat
+│   │   │       ⋮
+│   │   └── Data0030.dat
+│   │
+|   ├── 1M14.mrxs
+|   └── 1M14/
 │       ├── Index.dat
 │       ├── Slidedat.ini
 │       ├── Data0000.dat
@@ -70,7 +82,7 @@ BoneMarrow/
 │       ├── Data0003.dat
 │       ├── Data0004.dat
 │       │       ⋮
-│       └── Data0030.dat
+│       └── Data0035.dat
 │
 ├── Model/ - contains detection models
 |   ├── BMntu10mix_9_i90w
