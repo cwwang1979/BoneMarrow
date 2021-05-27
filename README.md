@@ -55,7 +55,7 @@ The demo data is [here](https://drive.google.com/file/d/1IrSIONn5ZtHN4SmOO0bu5tv
 BoneMarrow/
 │
 ├── BoneMarrow - execution file
-├── gpu_setting.json - configuration file
+├── setting.json - configuration file
 │
 ├── TestImgTemp/ - temp data extraction folder
 |
@@ -93,9 +93,12 @@ BoneMarrow/
 ```
 
 #### Inference
-Open the gpu_setting.json file set the GPUs used, the file format as follows:  
+Open the setting.json file set input WSI filename and GPUs used, the file format as follows:  
 ```
-[0, 1]	//number of GPUs to use for testing.
+{
+    "DATA": "1M14.mrxs",  //the input WSI filename.
+    "GPU": [0, 1]	        //number of GPUs to use for testing.
+}
 ```
 
 Then in a terminal run:  
