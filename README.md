@@ -29,8 +29,8 @@ AI inference process and results as follows:
 - **GPU:** NVIDIA GeForce GTX 1080 Ti 11 GB * 2
 
 #### Time consumption
-- **Data extraction time:** 96 seconds
-- **AI Inference time:** 741 seconds
+- **Data extraction time:** 6 seconds
+- **AI Inference time:** 94 seconds
 
 In the workstation demo, the WSI file is stored locally, so data extraction time takes less than the cloud demo.
 
