@@ -46,7 +46,7 @@ In the workstation demo, the WSI file is stored locally, and hence the data extr
 - cuDNN version >= 7.4.2
 
 #### Download
-Execution file, configuration file, and models are download from the [zip](https://drive.google.com/file/d/11GA6rtKFHaa-eJUCmTbYx1ew6broohjj/view?usp=sharing) file.  (For reviewers, please use the manuscript number M...........R1 as the password to decompress the file.)
+Execution file, configuration file, and models are download from the [zip](https://drive.google.com/file/d/1_2pU3tUDzkk_vraTsqM8aVfMjO0VjhJl/view?usp=sharing) file.  (For reviewers, please use the manuscript number M...........R1 as the password to decompress the file.)
 
 #### File structure
 ```
