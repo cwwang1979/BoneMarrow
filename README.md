@@ -5,7 +5,7 @@ Wang et al. "Deep Learning for Bone Marrow Cell Detection and Classification on 
 If you use this software in your research, please cite our publication.  
 
 ## Cloud Demo
-AI inference process and results are shown in the dmeo [video](https://drive.google.com/file/d/1BnJMrl5gJLrLxgFycA2eJXmcHHZ_dKyG/view?usp=sharing) in association with the data [1M05.mrxs](https://drive.google.com/file/d/1IrSIONn5ZtHN4SmOO0bu5tvwzXcy1E7u/view?usp=sharing).
+AI inference process and results are shown in the dmeo [video](https://drive.google.com/file/d/1BnJMrl5gJLrLxgFycA2eJXmcHHZ_dKyG/view?usp=sharing).
 
 #### Device specifications
 - **CPU:** Intel Xeon Gold 6148
