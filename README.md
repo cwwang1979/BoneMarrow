@@ -1,8 +1,8 @@
 # BoneMarrow
 
 ## Associated paper
-Wang et al. "Deep Learning for Bone Marrow Cell Detection and Classification on Whole-Slide Images." (under review). 
-If you use this software in your research, please cite our publication.  
+Wang C.*, Huang S., Lee Y., Shen Y., Meng S., Gaol J.(2022) Deep Learning for Bone Marrow Cell Detection and Classification on Whole-Slide Images, Medical Image Analysis, vol 75, 102270, 1-15 (SCI, 6/134 in RADIOLOGY, NUCLEAR MEDICINE & MEDICAL IMAGING, IF= 8.545). 
+If you use any materials here, please cite our publication.  
 
 ## Cloud Demo
 AI inference process and results are shown in the dmeo [video](https://drive.google.com/file/d/1BnJMrl5gJLrLxgFycA2eJXmcHHZ_dKyG/view?usp=sharing).
