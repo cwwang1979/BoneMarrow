@@ -1,7 +1,7 @@
 # BoneMarrow
 
 ## Associated paper
-Wang C.*, Huang S., Lee Y., Shen Y., Meng S., Gaol J.(2022) Deep Learning for Bone Marrow Cell Detection and Classification on Whole-Slide Images, Medical Image Analysis, vol 75, 102270, 1-15 (SCI, 6/134 in RADIOLOGY, NUCLEAR MEDICINE & MEDICAL IMAGING, IF= 8.545). 
+Wang C.*, Huang S., Lee Y., Shen Y., Meng S., Gaol J.(2022) Deep Learning for Bone Marrow Cell Detection and Classification on Whole-Slide Images, Medical Image Analysis, vol 75, 102270, 1-15 (SCI IF=13.828, 2/113 COMP. SCI., INTER. APP.). 
 If you use any materials here, please cite our publication.  
 
 ## Cloud Demo
