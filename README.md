@@ -5,7 +5,7 @@ Wang C.*, Huang S., Lee Y., Shen Y., Meng S., Gaol J.(2022) Deep Learning for Bo
 If you use any materials here, please cite our publication.  
 
 ## Cloud Demo
-AI inference process and results are shown in the dmeo [video](https://drive.google.com/file/d/1BnJMrl5gJLrLxgFycA2eJXmcHHZ_dKyG/view?usp=sharing).
+AI inference process and results are shown in the demo [video](https://drive.google.com/file/d/1BnJMrl5gJLrLxgFycA2eJXmcHHZ_dKyG/view?usp=sharing).
 
 #### Device specifications
 - **CPU:** Intel Xeon Gold 6148
